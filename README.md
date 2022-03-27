@@ -49,6 +49,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [sulabh007](https://github.com/sulabh007)
+- Frontend Mentor - [@sulabh007](https://www.frontendmentor.io/profile/sulabh007)
+
 
